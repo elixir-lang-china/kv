@@ -1,4 +1,4 @@
 KV
 ==
 
-** TODO: Add description **
+Elixir sample application
